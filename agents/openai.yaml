@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 164"
+  short_description: "Ink-wash Architectural Miniature"
+  default_prompt: "Use $xxd-panel-164 to transform my photograph following the complete canonical source brief."
