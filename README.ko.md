@@ -10,7 +10,23 @@
 
 ## 샘플 작품
 
-연산 자원을 아끼기 위해 이번 배치에서는 이미지 모델을 호출하거나 예시 이미지를 생성하지 않았습니다. 원문·링크·실행 스크립트는 확인했지만 실제 생성 품질은 아직 검증하지 않았습니다. 아래 예시는 생성 작품이 아닌 호출 명령입니다.
+서로 다른 원본에서 각각 생성한 Panel 164의 첫 시도 샘플 8장입니다. 짧은 영어 문구를 사용했습니다. 가로는 1536×864 좌우 균등 분할, 세로는 1152×1536 상하 균등 분할입니다.
+
+옅은 먹, 건축 제도선과 미니어처 풍경을 확인했습니다. 일부는 원래 풍경을 너무 많이 유지하여 경물이 크고 여백이 부족하며 도장이 추가되었습니다. 실제 결과를 전시하며, 모두 스타일 검수를 통과했다는 뜻은 아닙니다.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 
