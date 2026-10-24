@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 164｜Ink-wash Architectural Miniature: turns the core of a photo into a new-Chinese digital ink-wash architectural concept landscape — Chinese landscape-painting whitespace, mist and pale ink merged with fine architect's line drawing, structural lines, grids and contour lines — staged as a small narrative diorama of mountains, platforms, pavilions, figures or objects with a light tilt-shift depth of field, painted in pale ink, grey-blue and ink black with a few touches of orange-red on a roof, figure or path, set in very large whitespace with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-164 or asks for ink-wash architecture, Chinese landscape concept art or architectural sketch diorama from a photo.",
+  "short_description": "水墨建筑微景志：把照片化成一幅融了建筑线稿的淡墨山水微缩景，只点一点橙色",
+  "zh-CN": {
+    "name": "水墨建筑微景志",
+    "tagline": "把照片化成一幅淡墨山水里的微缩建筑小景，线条像建筑师的手稿，只点一点橙色。",
+    "look": "画面介于水墨山水、建筑草图和概念艺术之间：淡墨晕出山体和云雾，上面叠着精细的建筑制图线、结构线、网格和等高线。照片里的主体被缩成山间的一个小构筑物、平台、亭子或人物，像一个微缩模型，前后景轻微虚化，中景清楚。颜色以淡墨、灰蓝和墨色为主，只在屋顶、人物或小路上点一点橙红。大片留白当作天空和雾气，少量字落在留白或主体边上。",
+    "traits": [
+      "新中式水墨",
+      "建筑线稿",
+      "微缩叙事景观",
+      "移轴浅景深",
+      "橙色点睛"
+    ],
+    "good": [
+      "有建筑或构筑物的照片：古镇、寺庙、桥、亭子、楼宇",
+      "山水和自然景观：山路、湖边、梯田、云雾中的林子",
+      "风景里有一个小人物或小焦点：登山的人、湖边的船、路上的行人"
+    ],
+    "poor": [
+      "近距离的人像和美食特写，会被缩成山水里的一个小点",
+      "色彩丰富、想保留原色的照片，这里几乎只剩墨色和一点橙",
+      "想要厚重写实、浓墨国画、卡通或强 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Ink-wash Architectural Miniature",
+    "tagline": "Turns your photo into a tiny architectural scene in a pale ink landscape, drawn like an architect's sketch with one touch of orange.",
+    "look": "The result sits between Chinese ink landscape, architectural sketch and concept art: pale ink washes form mountains and mist, overlaid with fine drafting lines, structural lines, grids and contour lines. The subject of the photo shrinks into a small structure, platform, pavilion or figure set into the landscape, like a scale model, with foreground and background slightly blurred and the middle sharp. The palette is pale ink, grey-blue and ink black, with only a touch of orange-red on a roof, a figure or a path. Wide white space reads as sky and mist, and a few words sit in it or beside the subject.",
+    "traits": [
+      "New-Chinese ink wash",
+      "Architectural line work",
+      "Narrative miniature",
+      "Tilt-shift depth",
+      "Orange accent"
+    ],
+    "good": [
+      "Photos with buildings or structures: old towns, temples, bridges, pavilions, towers",
+      "Mountains, water and natural scenery: a mountain path, a lakeside, rice terraces, woods in mist",
+      "Landscapes with one small figure or focal point: a hiker, a boat on a lake, someone on a road"
+    ],
+    "poor": [
+      "Close-up portraits and food shots, which shrink to a small dot in a landscape",
+      "Colourful photos whose colours you want to keep, since almost only ink and a touch of orange remain",
+      "Requests for heavy realism, dense traditional ink painting, cartoons or a strong 3D look"
+    ]
+  },
+  "ja": {
+    "name": "水墨と建築線描の小景",
+    "tagline": "写真を、淡墨の山水に建築家のスケッチのような線を重ねた小さな景色にし、橙をひとさしだけ入れます。",
+    "look": "水墨山水、建築スケッチ、コンセプトアートのあいだのような絵です。淡い墨のにじみで山と雲霧をつくり、その上に繊細な製図線、構造線、グリッド、等高線を重ねます。写真の主役は山あいの小さな構築物、台、亭、人物に縮められ、模型のように見え、手前と奥は少しぼけて中景がはっきりします。色は淡墨、灰青、墨色が中心で、屋根や人物、小道にだけ朱橙をひとさしします。広い余白は空や霧となり、言葉は余白か主役のそばに少しだけ入ります。",
+    "traits": [
+      "新中華風の水墨",
+      "建築の線描",
+      "物語のある小景",
+      "ティルトシフトの被写界深度",
+      "橙の差し色"
+    ],
+    "good": [
+      "建物や構築物のある写真：古い町並み、寺、橋、亭、ビル",
+      "山や水などの自然風景：山道、湖畔、棚田、霧の中の林",
+      "小さな人物や焦点がある風景：登山者、湖の舟、道を行く人"
+    ],
+    "poor": [
+      "近くから撮った人物や料理（山水の中の小さな点になります）",
+      "色が豊かで元の色を残したい写真（ほぼ墨色とわずかな橙だけになります）",
+      "重厚な写実、濃い墨の伝統画、アニメ調、強い 3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "수묵 건축 선묘 미니어처",
+    "tagline": "사진을 옅은 수묵 산수 속 작은 건축 풍경으로 바꾸고, 건축가의 스케치 같은 선에 주황 한 점을 찍습니다.",
+    "look": "수묵 산수, 건축 스케치, 콘셉트 아트 사이에 있는 그림입니다. 옅은 먹 번짐으로 산과 구름 안개를 만들고, 그 위에 섬세한 제도선, 구조선, 격자, 등고선을 겹칩니다. 사진 속 주인공은 산속의 작은 구조물, 단, 정자, 인물로 줄어들어 축소 모형처럼 보이고, 앞뒤는 살짝 흐리고 중경은 또렷합니다. 색은 옅은 먹, 회청색, 먹색이 중심이고 지붕이나 인물, 길에만 주홍빛을 조금 찍습니다. 넓은 여백은 하늘과 안개가 되고, 글은 여백이나 주인공 곁에 조금만 들어갑니다.",
+    "traits": [
+      "신중식 수묵",
+      "건축 선묘",
+      "이야기가 있는 미니어처",
+      "틸트시프트 심도",
+      "주황 포인트"
+    ],
+    "good": [
+      "건물이나 구조물이 있는 사진: 옛 마을, 사찰, 다리, 정자, 빌딩",
+      "산과 물 같은 자연 풍경: 산길, 호숫가, 계단식 논, 안개 낀 숲",
+      "작은 인물이나 초점이 있는 풍경: 등산객, 호수 위 배, 길을 걷는 사람"
+    ],
+    "poor": [
+      "가까이서 찍은 인물이나 음식 사진(산수 속 작은 점이 됩니다)",
+      "색이 풍부해 원래 색을 살리고 싶은 사진(거의 먹색과 주황 한 점만 남습니다)",
+      "묵직한 사실 묘사, 짙은 전통 수묵화, 만화풍, 강한 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد مصغر بالحبر والخطوط المعمارية",
+    "tagline": "يحوّل صورتك إلى مشهد معماري صغير في منظر طبيعي بالحبر الباهت، مرسوم كاسكتش مهندس مع لمسة برتقالية واحدة.",
+    "look": "تقع النتيجة بين لوحة المناظر الطبيعية الصينية بالحبر والاسكتش المعماري والفن المفاهيمي: غسلات حبر باهتة تشكّل الجبال والضباب، تعلوها خطوط رسم هندسي دقيقة وخطوط إنشائية وشبكات وخطوط كنتور. ينكمش عنصر الصورة إلى منشأة صغيرة أو منصة أو جوسق أو شخص داخل المشهد، كأنه مجسّم مصغّر، مع ضبابية خفيفة في المقدمة والخلفية ووضوح في الوسط. الألوان حبر باهت ورمادي مزرق وأسود الحبر، مع لمسة برتقالية حمراء فقط على سقف أو شخص أو ممر. تصير المساحة البيضاء الواسعة سماءً وضباباً، وتقع فيها أو بجانب العنصر كلمات قليلة.",
+    "traits": [
+      "حبر صيني معاصر",
+      "خطوط معمارية",
+      "مشهد مصغر سردي",
+      "عمق ميدان مائل",
+      "لمسة برتقالية"
+    ],
+    "good": [
+      "صور فيها مبانٍ أو منشآت: بلدات قديمة، معابد، جسور، أجنحة، أبراج",
+      "جبال ومياه ومناظر طبيعية: درب جبلي، ضفة بحيرة، مدرجات أرز، غابة في الضباب",
+      "مناظر فيها شخص صغير أو نقطة تركيز واحدة: متسلق، قارب على بحيرة، شخص على طريق"
+    ],
+    "poor": [
+      "الصور الشخصية القريبة وصور الطعام، إذ تنكمش إلى نقطة صغيرة في المنظر",
+      "صور غنية بالألوان تريد الحفاظ عليها، إذ لا يبقى تقريباً إلا الحبر ولمسة برتقالية",
+      "طلب واقعية ثقيلة أو رسم تقليدي بحبر كثيف أو رسوم كرتونية أو مظهر ثلاثي الأبعاد قوي"
+    ]
+  }
+}

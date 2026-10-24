@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-164
-description: "Create Panel 164 raster artwork: Ink-wash Architectural Miniature. Use when the user invokes xxd-panel-164 or requests this specific visual language."
+description: "XXD Panel 164｜Ink-wash Architectural Miniature: turns the core of a photo into a new-Chinese digital ink-wash architectural concept landscape — Chinese landscape-painting whitespace, mist and pale ink merged with fine architect's line drawing, structural lines, grids and contour lines — staged as a small narrative diorama of mountains, platforms, pavilions, figures or objects with a light tilt-shift depth of field, painted in pale ink, grey-blue and ink black with a few touches of orange-red on a roof, figure or path, set in very large whitespace with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-164 or asks for ink-wash architecture, Chinese landscape concept art or architectural sketch diorama from a photo."
 ---
 
 # XXD Panel 164
